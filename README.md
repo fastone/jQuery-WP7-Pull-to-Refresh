@@ -4,6 +4,8 @@ This plugin gives some basic pull to refresh functionality on a scrollable eleme
 
 html and css are for demo usage.
 
+demo: [http://m.31f.nl/scroll](http://m.31f.nl/scroll)
+
 # Licence
 
 Copyright (C) 2012 Jeroen van Wissen
